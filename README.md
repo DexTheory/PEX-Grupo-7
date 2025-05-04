@@ -3,4 +3,4 @@
 
 # Curso: Análise e Desenvolvimento de Sistemas
 
-# GRUPO PEX: 7
+# GRUPO WPP PEX: 7
