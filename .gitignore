@@ -1,0 +1,12 @@
+# Arquivos comuns a serem ignorados
+node_modules/
+.env
+*.log
+*.tmp
+*.bak
+.DS_Store
+__pycache__/
+.idea/
+.vscode/
+dist/
+build/
