@@ -12,7 +12,7 @@ O objetivo principal do projeto será definido em conjunto pelo grupo após a an
 
 ## 📁 Estrutura Inicial
 ```
-📦 projeto-pex7
+📦 PEX-Grupo-7
  ┣ 📂docs
  ┣ 📂src
  ┣ 📜README.md
